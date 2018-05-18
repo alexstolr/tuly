@@ -8,7 +8,9 @@ int main(){
 
 	}
 	printf(address of array is without ampersand: %p\n", array );
+	//test
 	printf(" dereferencing the array gives the first value: %d\n",*array );
 	printf(" dereferencing the array gives the first value: %d\n",*(array+2) );
+	//test
 	return 0;
 }
